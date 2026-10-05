@@ -9,4 +9,4 @@ gem 'rake'
 gem 'rubocop', '~> 1.88.0'
 gem 'mocha'
 
-gem 'hiredis-client'
+# Optional hiredis driver is outside this offline XXH3 environment.
